@@ -48,4 +48,4 @@ sistema-shopping/
 
 ## Equipo
 
-Desarrollado por [Ian / Lauti / Tomi / Lucas] como trabajo práctico grupal.
+Desarrollado por Ian Kasperczak, Lautaro Peralta y Tomás Moreno como trabajo práctico grupal.
